@@ -1,0 +1,2 @@
+D:\Azure Devops\Samplecode\SampleWebApplication\obj\Debug\SampleWebApplication.csproj.AssemblyReference.cache
+D:\Azure Devops\Samplecode\SampleWebApplication\obj\Debug\SampleWebApplication.csproj.CoreCompileInputs.cache
